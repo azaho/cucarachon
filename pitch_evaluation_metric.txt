@@ -1,0 +1,41 @@
+### Pitch Evaluation Metric (Stringent 5-Point Model)
+
+1. **Market Potential**: Assess the potential market size and demand for the startup idea.
+   - Score:
+     - 1: The market size is negligible with limited or niche demand. No credible evidence of an addressable market.
+     - 2: The market size is small with uncertain demand. Market analysis lacks depth or evidence of sustainability.
+     - 3: The market size is moderate, with demand potential that remains speculative or poorly supported by data.
+     - 4: The market size is significant, but clear evidence of strong demand is missing or dependent on major market shifts.
+     - 5: The market is large, clearly defined, and growing, with validated demand.
+
+2. **Scalability**: Determine how scalable the startup idea is. Can the business grow efficiently as demand increases?
+   - Score:
+     - 1: The idea has severe structural or operational barriers that inherently prevent scalability.
+     - 2: The idea has theoretical scalability, but practical growth faces multiple, largely unaddressed challenges that may prove insurmountable.
+     - 3: The idea is potentially scalable but requires significant and uncertain adjustments in infrastructure or processes.
+     - 4: The idea shows signs of scalability but requires extensive evidence and validation of operational efficiency as demand scales.
+     - 5: The idea is scalable in theory and practice, with strong potential for efficient growth.
+
+3. **Feasibility**: Evaluate the feasibility of implementing the idea, considering resources, technology, and market readiness.
+   - Score:
+     - 1: The idea is practically unfeasible with current resources or technology, relying on speculative advances or unavailable support.
+     - 2: The idea may be feasible, but requires significant breakthroughs in technology, resources, or partnerships that are currently unproven.
+     - 3: The idea is feasible with clear gaps in execution capabilities, requiring substantial additional resources or untested approaches.
+     - 4: The idea is feasible given current resources, but requires multiple untested assumptions and coordinated execution across various fronts.
+     - 5: The idea is feasible with all elements aligned and a clear path to implementation.
+
+4. **Customer Need**: Evaluate how well the startup idea addresses a clear and pressing customer need or problem.
+   - Score:
+     - 1: The idea addresses a poorly defined or low-priority customer need, with minimal evidence that customers will value the solution.
+     - 2: The idea addresses a valid need, but the problem is not urgent and alternative solutions already exist, making adoption unlikely.
+     - 3: The idea addresses a customer need with moderate importance, but it lacks strong differentiation or compelling evidence that customers will switch to or adopt the solution.
+     - 4: The idea addresses a significant need, but customer validation is weak, and the urgency of the need is inconsistent across the target audience.
+     - 5: The idea addresses a critical customer need, with strong evidence that customers will adopt the solution.
+
+5. **Revenue Model**: Assess the clarity and viability of the proposed revenue model.
+   - Score:
+     - 1: The revenue model is vague, unproven, or unlikely to be sustainable. No credible evidence supports the monetization strategy.
+     - 2: The revenue model is somewhat clear but relies on unproven assumptions or external factors that make it highly vulnerable.
+     - 3: The revenue model is clear but untested, and there are considerable risks regarding customer willingness to pay or operational viability.
+     - 4: The revenue model is well-defined, but there are unresolved uncertainties related to pricing, market fit, or the scalability of revenue streams.
+     - 5: The revenue model is clear, validated, and aligned with market expectations, with a strong likelihood of successful execution.

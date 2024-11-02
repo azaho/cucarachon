@@ -1,0 +1,50 @@
+### Pitch Evaluation Metric
+
+1. **Uniqueness**: Evaluate how unique the startup idea is compared to existing solutions in the market.
+   - Score:
+     - 1: The idea is not unique; there are many similar solutions already available.
+     - 2: The idea has some unique elements, but overlaps significantly with existing solutions.
+     - 3: The idea is highly unique and stands out from existing market solutions.
+
+2. **Market Potential**: Assess the potential market size and demand for the startup idea.
+   - Score:
+     - 1: The market size is small with limited demand.
+     - 2: The market size is moderate, with some demand potential.
+     - 3: The market size is large with high demand potential.
+
+3. **Scalability**: Determine how scalable the startup idea is. Can the business grow efficiently as demand increases?
+   - Score:
+     - 1: The idea is not easily scalable; significant barriers exist to growth.
+     - 2: The idea is somewhat scalable, but growth will require substantial effort.
+     - 3: The idea is highly scalable, with minimal barriers to efficient growth.
+
+4. **Feasibility**: Evaluate the feasibility of implementing the idea, considering resources, technology, and market readiness.
+   - Score:
+     - 1: The idea is not feasible with current resources or technology.
+     - 2: The idea is feasible but requires significant resources and technological advancements.
+     - 3: The idea is highly feasible with available resources and technology.
+
+5. **Potential Impact**: Assess the potential positive impact of the startup idea, both economically and socially.
+   - Score:
+     - 1: The idea has minimal positive impact, economically or socially.
+     - 2: The idea has moderate positive impact, either economically or socially.
+     - 3: The idea has significant positive impact, both economically and socially.
+
+6. **Team Competence**: Evaluate the capability of the founding team to execute the idea successfully.
+   - Score:
+     - 1: The team lacks the necessary skills and experience to execute the idea.
+     - 2: The team has some relevant skills and experience, but gaps exist.
+     - 3: The team is highly competent, with all necessary skills and experience.
+
+7. **Customer Need**: Evaluate how well the startup idea addresses a clear and pressing customer need or problem.
+   - Score:
+     - 1: The idea addresses a minor or unclear customer need.
+     - 2: The idea addresses a relevant customer need, but the problem is not pressing.
+     - 3: The idea addresses a clear and pressing customer need.
+
+8. **Revenue Model**: Assess the clarity and viability of the proposed revenue model.
+   - Score:
+     - 1: The revenue model is unclear or unlikely to be viable.
+     - 2: The revenue model is somewhat clear, but viability is uncertain.
+     - 3: The revenue model is clear and highly viable.
+
